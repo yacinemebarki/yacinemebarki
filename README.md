@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @yacinemebarki
 - 📫 How to reach me mebarkiyacine822@gmail.com
+- intermediate level in machine learning
+- learning deep learning
+- junior web dev
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
