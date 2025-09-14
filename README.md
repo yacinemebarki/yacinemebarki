@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @yacinemebarki
-- 📫 How to reach me mebarkiyacine822@gmail.com
-- intermediate level in machine learning
-- learning deep learning
-- junior web dev
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @yacinemebarki
 
-<!---
-yacinemebarki/yacinemebarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: mebarkiyacine822@gmail.com
+- 🤖 Intermediate level in Machine Learning
+- 🧠 Currently learning Deep Learning
+- 💻 Junior Web Developer
+- 😄 Pronouns: [your pronouns here]
+- ⚡ Fun fact: [your fun fact here]
+
+---
+
+### 🚀 Some of my top projects:
+- [EcoTracker](https://github.com/Psikuvit/EcoTracker)
+- [Career Path](https://github.com/yacinemebarki/carrer_path)
+- [Netflix Movie Recommender](https://github.com/yacinemebarki/netflix-recomender-movie)
+- [Java Bugs](https://github.com/yacinemebarki/java_bugs)
+- [Medcine Answer](https://github.com/yacinemebarki/medcine-answer)
