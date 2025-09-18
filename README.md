@@ -4,8 +4,6 @@
 - 🤖 Intermediate level in Machine Learning
 - 🧠 Currently learning Deep Learning
 - 💻 Junior Web Developer
-- 😄 Pronouns: [your pronouns here]
-- ⚡ Fun fact: [your fun fact here]
 - [my portfolio](https://lovely-mooncake-a14182.netlify.app/)
 
 ---
