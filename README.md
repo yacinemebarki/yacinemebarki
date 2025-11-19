@@ -1,4 +1,4 @@
-#About me:
+# About me:
 Computer Science student with experience in deep and machine learning, and software engineering. Skilled in Java, Python, Flask, C,  and Git/GitHub. Strong knowledge of object-oriented programming, data structures, and algorithms.
 
 
