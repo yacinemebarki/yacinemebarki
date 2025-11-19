@@ -1,16 +1,24 @@
-# 👋 Hi, I’m @yacinemebarki
+# 💫 About Me:
+generate a github profile readme bio for me in style of gprm iam curruntly working on focus developer is ml model that predict cognitive load while worinkg on project and llm model that give best working model on his pc iam currently learning lm and llm 
 
-- 📫 How to reach me: mebarkiyacine822@gmail.com
-- 🤖 Intermediate level in Machine Learning
-- 🧠 Currently learning Deep Learning
-- 💻 Junior Web Developer
-- [my portfolio](https://lovely-mooncake-a14182.netlify.app/)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacine-mebarki-a586b8339/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mebarkiyacine211@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yacinemebarki&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yacinemebarki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinemebarki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yacinemebarki&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yacinemebarki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Some of my top projects:
-- [EcoTracker](https://github.com/Psikuvit/EcoTracker)
-- [Career Path](https://github.com/yacinemebarki/carrer_path)
-- [Netflix Movie Recommender](https://github.com/yacinemebarki/netflix-recomender-movie)
-- [Java Bugs](https://github.com/yacinemebarki/java_bugs)
-- [Medcine Answer](https://github.com/yacinemebarki/medcine-answer)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
