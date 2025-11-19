@@ -1,5 +1,5 @@
-# 💫 About Me:
-generate a github profile readme bio for me in style of gprm iam curruntly working on focus developer is ml model that predict cognitive load while worinkg on project and llm model that give best working model on his pc iam currently learning lm and llm 
+#About me:
+Computer Science student with experience in deep and machine learning, and software engineering. Skilled in Java, Python, Flask, C,  and Git/GitHub. Strong knowledge of object-oriented programming, data structures, and algorithms.
 
 
 ## 🌐 Socials:
