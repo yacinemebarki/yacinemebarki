@@ -15,8 +15,9 @@ Computer Science student with experience in deep and machine learning, and softw
   
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=yacinemebarki&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinemebarki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=yacinemebarki&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinemebarki&layout=compact&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yacinemebarki&theme=radical&no-frame=false&no-bg=false&margin-w=4)
