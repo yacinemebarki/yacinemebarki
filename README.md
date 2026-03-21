@@ -17,7 +17,9 @@ Computer Science student with experience in deep and machine learning, and softw
 
 ![](https://nirzak-streak-stats.vercel.app/?user=yacinemebarki&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yacinemebarki&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=yacinemebarki&show_icons=true)_
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinemebarki)
 
 
 ## 🏆 GitHub Trophies
