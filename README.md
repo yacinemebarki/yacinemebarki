@@ -63,7 +63,7 @@ I'm a Computer Science Engineering student focused on **low-level software engin
 | [**model_from_scratch**](https://github.com/yacinemebarki/model_from_scratch) | Machine learning model(s) implemented from scratch — no high-level ML frameworks doing the heavy lifting | Python |
 | [**java_bugs**](https://github.com/yacinemebarki/java_bugs) | ML-based bug finder for Java code | Jupyter Notebook |
 | [**assembly_compiler**](https://github.com/yacinemebarki/assembly_compiler) | A compiler targeting assembly — systems/compilers work | C |
-| [**ToApp**](https://github.com/yacinemebarki/ToApp) | Full-stack todo app with email-verified sign-up/sign-in and task management (today/future/past views) | Node.js, Express, MongoDB |
+| [**ToApp**](https://github.com/yacinemebarki/to_do_app) | Full-stack todo app with email-verified sign-up/sign-in and task management (today/future/past views) | Node.js, Express, MongoDB |
 
 ---
 
