@@ -69,7 +69,7 @@ I'm a Computer Science Engineering student focused on **low-level software engin
 
 | Project | Description | Stack |
 |---|---|---|
-| [**mini_kernel**](https://github.com/yacinemebarki/my_kernel) | A minimal x86 32-bit hobby kernel and bootloader with paging, physical memory manager, keyboard/PIT drivers, and a kernel test suite | C, x86 Assembly |
+| [**physicSimulator**](https://github.com/yacinemebarki/ParticleForge) | A C++ particle simulation and visualization engine built with SFML, featuring real-time particle physics, rendering, and interactive simulation controls. | C++, SFML, MakeFile
 | [**model_from_scratch**](https://github.com/yacinemebarki/model_from_scratch) | Machine learning model(s) implemented from scratch — no high-level ML frameworks doing the heavy lifting | Python |
 | [**java_bugs**](https://github.com/yacinemebarki/java_bugs) | ML-based bug finder for Java code | Jupyter Notebook |
 | [**assembly_compiler**](https://github.com/yacinemebarki/assembly_compiler) | A compiler targeting assembly — systems/compilers work | C |
